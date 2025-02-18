@@ -1,0 +1,9 @@
+pip install pyarmor
+
+pyarmor --version
+
+pyarmor gen .\YOUR CODE NAME
+
+cd dist
+
+python .\YOUR CODE NAME
